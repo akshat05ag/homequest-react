@@ -6,7 +6,7 @@ export const Navbar = ({ selectedCount, onShowTour, maxSelections = 5, canGenera
       <div className="navbar-brand">
         <div className="brand-container">
           <h1 className="logo">
-            <Home size={24} className="icon-home" /> JumboHomes
+            <Home size={24} className="icon-home" /> DreamHomes
           </h1>
           <p className="subtitle">Find Your Perfect Home & Plan Your Visit</p>
         </div>
