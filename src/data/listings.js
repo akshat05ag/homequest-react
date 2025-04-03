@@ -231,5 +231,137 @@ export const listings = [
     "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38",
     "description": "Bohemian-style home with an art studio",
     "features": ["Art studio", "Terracotta flooring", "Rooftop terrace", "French colonial architecture"]
+  },
+  {
+    "id": 23,
+    "address": "101 Ocean View Drive, Goa",
+    "price": 12500000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 4200,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Luxury beachfront villa with infinity pool",
+    "features": ["Private pool", "Ocean view", "Open-plan living", "Smart home system"]
+  },
+  {
+    "id": 24,
+    "address": "202 Skyline Apartments, Mumbai",
+    "price": 28000000,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "squareFootage": 3200,
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Penthouse with panoramic city views",
+    "features": ["Private terrace", "Floor-to-ceiling windows", "Concierge service"]
+  },
+  {
+    "id": 25,
+    "address": "303 Mountain Retreat, Ooty",
+    "price": 9200000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 3800,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Hilltop home with valley views",
+    "features": ["Fireplace", "Large garden", "Wooden interiors"]
+  },
+  {
+    "id": 26,
+    "address": "404 Heritage Mansion, Kolkata",
+    "price": 18500000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "squareFootage": 5000,
+    "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Colonial-era mansion with vintage charm",
+    "features": ["Grand staircase", "Antique furnishings", "Library"]
+  },
+  {
+    "id": 27,
+    "address": "505 Lakefront Cottage, Udaipur",
+    "price": 10500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 2800,
+    "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Charming cottage with lake access",
+    "features": ["Private boat dock", "Sunroom", "Traditional decor"]
+  },
+  {
+    "id": 28,
+    "address": "606 Modern Villa, Bangalore",
+    "price": 15000000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 3600,
+    "image": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Sleek minimalist villa with zen garden",
+    "features": ["Solar panels", "Home office", "Automated lighting"]
+  },
+  {
+    "id": 30,
+    "address": "808 Tech Heights, Hyderabad",
+    "price": 12000000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFootage": 2600,
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "High-end apartment in tech hub",
+    "features": ["Gym access", "24/7 security", "Sky lounge"]
+  },
+  {
+    "id": 31,
+    "address": "909 French Colony, Pondicherry",
+    "price": 8800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 2200,
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Bohemian-style home with art studio",
+    "features": ["Terracotta flooring", "Rooftop terrace", "French architecture"]
+  },
+  {
+    "id": 32,
+    "address": "1010 Green Valley, Dehradun",
+    "price": 9500000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 3100,
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Eco-friendly mountain home",
+    "features": ["Rainwater harvesting", "Organic garden", "Solar power"]
+  },
+  {
+    "id": 33,
+    "address": "1111 Golf Course Road, Gurgaon",
+    "price": 22000000,
+    "bedrooms": 5,
+    "bathrooms": 4.5,
+    "squareFootage": 4500,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Luxury villa on golf course",
+    "features": ["Golf course view", "Home theater", "Wine cellar"]
+  },
+  {
+    "id": 36,
+    "address": "1414 Beachfront Villa, Puri",
+    "price": 11200000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 3400,
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+    "description": "Luxury beach villa with private beach access",
+    "features": ["Private beach", "Infinity pool", "Rooftop deck", "Chef's kitchen"]
+  },
+  {
+    "id": 37,
+    "address": "1515 Heritage Haveli, Jaipur",
+    "price": 9800000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 4800,
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "description": "Restored Rajput-era haveli with courtyard",
+    "features": ["Hand-carved marble", "Central courtyard", "Jharokha windows", "Traditional frescoes"]
   }
 ];
